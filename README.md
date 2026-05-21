@@ -571,8 +571,8 @@ Contributions are welcome! Please follow these steps:
 
 ## 👥 Authors
 
-- **Muhammad Umer Ijaz** - *Initial work* - [iAmUmerJz](https://github.com/iamumerjz)
-
+- **Muhammad Umer Ijaz**  - [iAmUmerJz](https://github.com/iamumerjz)
+- **Muhammad Furqan Abid** - [furqanabid-1383](https://github.com/furqanabid-1383)
 ## 🙏 Acknowledgments
 
 - ResNet50 architecture from torchvision
