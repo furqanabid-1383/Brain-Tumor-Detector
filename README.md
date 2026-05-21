@@ -602,4 +602,3 @@ This application is for educational and research purposes only. It should not be
 
 ---
 
-Made with ❤️ by Muhammad Umer Ijaz
